@@ -6,7 +6,7 @@
 code_list = [("Naver",'035420'),
                  ("삼성전자", "005930")
                     ] 
-    t = financeCralwer(from_="2020-01-01", to_="2020-01-31", code_list=code_list,debug=False).main()
+t = financeCralwer(from_="2020-01-01", to_="2020-01-31", code_list=code_listdebug=False).main()
 ~~~
 
 
